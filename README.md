@@ -76,3 +76,5 @@ Additionally, I would suggest a few things for further analysis with the given d
 Trip duration of checkout times per user types. With this analysis we could see the trend of trip durations amongst user types.
 Weekday and the trip duration. With this analysis we could see if the trend of the trip duration is similar on particular day (i.e. weekends and weekdays).
 Additional color filter in Top Ending and Top Starting location to see which stations are more popular amongst subscribers and customers.
+
+[My Dashboard](https://public.tableau.com/app/profile/jabbo.ramirez/viz/NYCCitiBikeModule14/NYCCitiBike?publish=yes)
