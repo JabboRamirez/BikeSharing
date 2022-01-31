@@ -3,7 +3,8 @@ Module 14
 
 ## Project
 
-This is data visualization with Tableau for a bike sharing program in New York City. Analyze de data and find out how the bike share business runs in NYC. A strong and clear story, backed-up by data we can create a proposal on how the business could work in other cities as well.
+This is data visualization with Tableau for a bike sharing program in New York City. Analyze de data and find out how the bike share business runs in NYC. A strong and clear story, backed-up by data we can create a proposal on how the business could work in other cities as well. [Here is My Dashboard](https://public.tableau.com/app/profile/jabbo.ramirez/viz/NYCCitiBikeModule14/NYCCitiBike?publish=yes)
+
 
 ## Results
 
@@ -77,4 +78,4 @@ Trip duration of checkout times per user types. With this analysis we could see 
 Weekday and the trip duration. With this analysis we could see if the trend of the trip duration is similar on particular day (i.e. weekends and weekdays).
 Additional color filter in Top Ending and Top Starting location to see which stations are more popular amongst subscribers and customers.
 
-[My Dashboard](https://public.tableau.com/app/profile/jabbo.ramirez/viz/NYCCitiBikeModule14/NYCCitiBike?publish=yes)
+
